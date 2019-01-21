@@ -1,0 +1,6 @@
+lenavg,2.74161
+numavg,1.69718
+timeavg,701.856
+maxlen,100.00
+maxtime,10800
+count,13990176
